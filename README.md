@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello Everyone !  👋
 
-<!--
-**Oureyelet/Oureyelet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mateusz, I am self-taught c++ programmer (without computer science degree or collague degree but !) I have a passion 
+and motivation to learn new programming skills every single day. I learn c++ from www.learncpp.com. Each day I try to spend 
+one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently work as a full-time welder
+- 🌱 I’m currently learning C++ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- My target: Be a C++ full-time programmer :)  
+
+
+
+- ⚡ Motivation: Date of started learn c++: 23 february 2021
+-    Spent time on learning:                   May(2021): 14,5 Hours                        
+--> 
+
+Thank you !
+Regards Mateusz.
+Oureyelet@gmail.com
