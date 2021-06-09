@@ -19,3 +19,5 @@ one hour at least for improve my qualifications/knowledge and hopefully to chang
 Thank you !
 Regards Mateusz.
 Oureyelet@gmail.com
+https://www.codewars.com/users/Oureyelet
+https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/
