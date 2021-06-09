@@ -1,6 +1,10 @@
 ### Hello Everyone !  👋
 
-My name is Mateusz, I am self-taught c++ programmer (without computer science degree or collague degree but !) I have a passion 
+My name is Mateusz
+
+https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/
+
+I am self-taught c++ programmer (without computer science degree or collague degree but !) I have a passion 
 and motivation to learn new programming skills every single day. I learn c++ from www.learncpp.com. Each day I try to spend 
 one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
 
@@ -10,6 +14,7 @@ one hour at least for improve my qualifications/knowledge and hopefully to chang
 
 - My target: Be a C++ full-time programmer :)  
 
+https://www.codewars.com/users/Oureyelet
 
 
 - ⚡ Motivation: Date of started learn c++: 23 february 2021
@@ -19,5 +24,3 @@ one hour at least for improve my qualifications/knowledge and hopefully to chang
 Thank you !
 Regards Mateusz.
 Oureyelet@gmail.com
-https://www.codewars.com/users/Oureyelet
-https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/
