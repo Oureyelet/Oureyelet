@@ -18,9 +18,10 @@ https://www.codewars.com/users/Oureyelet
 
 
 - ⚡ Motivation: Date of started learn c++: 23 february 2021.
- 
-     Spent time on learning:                   May(2021): 14:30 hours
-                                               June(2021): 31:55 hours                        
+- Spent time on learning:                   
+-                        May(2021): 14:30 hours
+-                        June(2021): 31:55 hours
+                                                                       
 
 
 --> 
