@@ -23,7 +23,7 @@ https://www.codewars.com/users/Oureyelet
 -                        June(2021): 31:55 hours
                                                                        
 
-<img width="375" alt="Screenshot 2021-07-09 at 13 12 27" src="https://user-images.githubusercontent.com/69697624/125079863-ffcc0900-e0bb-11eb-8fc9-a838b5e7ea78.png">
+![image0](https://user-images.githubusercontent.com/69697624/137009430-c09de4e5-301d-4b95-8e69-0b0ed59965aa.jpeg)
 
 --> 
 
