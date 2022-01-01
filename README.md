@@ -17,7 +17,7 @@ one hour at least for improve my qualifications/knowledge and hopefully to chang
 https://www.codewars.com/users/Oureyelet
 
 
-__- ⚡ Motivation:__ 
+__   ⚡ Motivation:__ 
 - Date of started learn c++: 15th May 2021.
 - Total learning hours :                   
 -                2021:    171 hrs
