@@ -8,7 +8,7 @@ I am self-taught c++ programmer (without computer science degree or collague deg
 and motivation to learn new programming skills every single day. I learn c++ from www.learncpp.com. Each day I try to spend 
 one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
 
-- 🔭 I’m currently work as a full-time welder
+- 🔭 I’m currently work as a full-time Team Leader
 - 🌱 I’m currently learning C++ 
 
 
