@@ -25,6 +25,6 @@ ________________________________________________________________________________
                 - 2022:    144 hrs so far :) <br />                                        
 <img width="375" alt="Screenshot 2021-07-09 at 13 12 27" src="https://user-images.githubusercontent.com/69697624/181431486-2a3560c2-9fa4-412d-96da-c32e86276ad2.png">
 _______________________________________________________________________________________________________________
-God bless you whoever you are <3 <br />
+God bless you whoever you are :rainbow: <br />
 Regards, Mateusz. <br />
 Oureyelet@gmail.com <br />
