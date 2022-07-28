@@ -20,8 +20,8 @@ https://www.codewars.com/users/Oureyelet
 > ###  __⚡    Motivation:__ 
 - Date of started learn c++: 15th May 2021.
 - Total learning hours :                   
-                2021:    171 hrs
-                2022:    144 hrs so far :)
+                - [x] #7392021:    171 hrs
+                - 2022:    144 hrs so far :)
                                                                        
 
 !<img width="375" alt="Screenshot 2021-07-09 at 13 12 27" src="https://user-images.githubusercontent.com/69697624/181431486-2a3560c2-9fa4-412d-96da-c32e86276ad2.png">
