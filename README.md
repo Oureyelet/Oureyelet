@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 > My name is Mateusz
 
-![Website](https://img.shields.io/website?down_color=blue&down_message=LinkedIn&up_color=blue&up_message=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fmwlite%2Fin%2Fmateusz-adam-kacperski-070847201)
+[![Website](https://img.shields.io/website?down_color=blue&down_message=LinkedIn&up_color=blue&up_message=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fmwlite%2Fin%2Fmateusz-adam-kacperski-070847201)]
 
 https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/
 
