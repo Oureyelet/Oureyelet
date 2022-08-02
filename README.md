@@ -18,6 +18,7 @@ and motivation to learn new programming skills every single day. I learn C++ fro
 
 - My target: Be a C++ full-time programmer :)  
 
+![Website](https://img.shields.io/website?down_color=red&down_message=Code%20Wars&style=for-the-badge&up_color=red&up_message=Code%20Wars&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2FOureyelet)
 https://www.codewars.com/users/Oureyelet
 
 _______________________________________________________________________________________________________________
