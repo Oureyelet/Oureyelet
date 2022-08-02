@@ -8,7 +8,7 @@ ________________________________________________________________________________
 https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/
 
 I am passion self-taught C++ programmer (without computer science degree or collague degree but !) I have a no-limit energy 
-and motivation to learn new programming skills every single day. I learn C++ from places like [![Website](https://img.shields.io/website?down_color=red&down_message=LearnCpp&style=plastic&up_color=green&up_message=LearnCpp&url=https%3A%2F%2Fwww.learncpp.com%2F)](#) www.learncpp.com or book C++ Primer Plus (Developer's Library) by Stephen Prata. Each day I try to spend one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
+and motivation to learn new programming skills every single day. I learn C++ from places like [![Website](https://img.shields.io/website?down_color=red&down_message=LearnCpp&style=plastic&up_color=green&up_message=LearnCpp&url=https%3A%2F%2Fwww.learncpp.com%2F)](http://www.learncpp.com/) www.learncpp.com or book C++ Primer Plus (Developer's Library) by Stephen Prata. Each day I try to spend one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
 
 - :bust_in_silhouette: I’m currently work as a full-time Team Leader.
 - :guitar: Playing the guitar has been my hobby since remember.
