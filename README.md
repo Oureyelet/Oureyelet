@@ -26,7 +26,7 @@ ________________________________________________________________________________
 - Date of started learn c++: 15th May 2021.
 - Total learning hours :                   
                 - 2021:    171hrs <br />
-                - 2022:    218hrs <br />    
+                - 2022:    218hrs    
                 - 2023:    17hrs so far :) <br />                                     
 <img width="375" alt="Screenshot 2021-07-09 at 13 12 27" src="https://user-images.githubusercontent.com/69697624/215017858-e014ab47-c08b-4504-9e15-0796ed7ff71c.jpg">
 
