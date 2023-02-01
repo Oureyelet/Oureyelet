@@ -17,10 +17,6 @@ and motivation to learn new programming skills every single day. I learn C++ fro
 
 - My target: Be a C++ full-time programmer :)  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Oureyelet/)
-
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Oureyelet)
-
 _______________________________________________________________________________________________________________
  
 > ###  __⚡    Motivation:__ 
