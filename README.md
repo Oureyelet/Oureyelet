@@ -6,6 +6,8 @@ ________________________________________________________________________________
 
 [![Website](https://img.shields.io/website?down_color=blue&down_message=LinkedIn&up_color=blue&up_message=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fmwlite%2Fin%2Fmateusz-adam-kacperski-070847201)](https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/)
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 I am passion self-taught C++ programmer (without computer science degree or collague degree but !) I have a no-limit energy 
 and motivation to learn new programming skills every single day. I learn C++ from places like [![Website](https://img.shields.io/website?down_color=blue&down_message=LinkedIn&up_color=blue&up_message=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fmwlite%2Fin%2Fmateusz-adam-kacperski-070847201)]([https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/](http://www.learncpp.com/)) or book C++ Primer Plus (Developer's Library) by Stephen Prata. Each day I try to spend one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
