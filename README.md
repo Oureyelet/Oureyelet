@@ -20,6 +20,8 @@ and motivation to learn new programming skills every single day. I learn C++ fro
 [![Website](https://img.shields.io/website?down_color=red&down_message=Code%20Wars&style=for-the-badge&up_color=red&up_message=Code%20Wars&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2FOureyelet)](https://www.codewars.com/users/Oureyelet)
 https://www.codewars.com/users/Oureyelet
 
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Oureyelet)
+
 _______________________________________________________________________________________________________________
  
 > ###  __⚡    Motivation:__ 
