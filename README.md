@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 [![Website](https://img.shields.io/website?down_color=blue&down_message=LinkedIn&up_color=blue&up_message=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fmwlite%2Fin%2Fmateusz-adam-kacperski-070847201)](https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/)
 
 
 I am passion self-taught C++ programmer (without computer science degree or collague degree but !) I have a no-limit energy 
