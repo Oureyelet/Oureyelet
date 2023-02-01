@@ -5,12 +5,6 @@ ________________________________________________________________________________
 > My name is Mateusz
 
 [![Website](https://img.shields.io/website?down_color=blue&down_message=LinkedIn&up_color=blue&up_message=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fmwlite%2Fin%2Fmateusz-adam-kacperski-070847201)](https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/)
-https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/
-
-
-<img width="100" alt="Screenshot 2021-07-09 at 13 12 27" src="https://user-images.githubusercontent.com/69697624/215958872-12454cc9-af3f-4891-a741-f4508a527650.png">
-
-[![Website](https://img.shields.io/website?down_color=blue&down_message=LinkedIn&up_color=blue&up_message=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fmwlite%2Fin%2Fmateusz-adam-kacperski-070847201)](https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/)
 
 
 I am passion self-taught C++ programmer (without computer science degree or collague degree but !) I have a no-limit energy 
