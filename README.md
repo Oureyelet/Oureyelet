@@ -11,7 +11,7 @@ I am passion self-taught C++ Developer (without computer science degree or colla
 and motivation to learn new programming skills every single day. I learn C++ from places like [www.learncpp.com](http://www.learncpp.com/) 
 or book [C++ Primer Plus 6th Edition 2011](https://zhjwpku.com/assets/pdf/books/C++.Primer.Plus.6th.Edition.Oct.2011.pdf). Each day I try to spend one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
 
-# :building_construction:
+> # :building_construction:
 Check my portfolio & projects :point_right:
 
 - :bust_in_silhouette: I’m currently work as a full-time Team Leader.
