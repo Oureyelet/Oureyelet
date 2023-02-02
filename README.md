@@ -16,6 +16,7 @@ or book [C++ Primer Plus 6th Edition 2011](https://zhjwpku.com/assets/pdf/books/
 - :footprints: I hope one day my little baby girl (Sophie) will be interested to programing like me :)
 - My target: Be a C++ full-time Software Developer :)
 
+
 > # :building_construction:
 Check my portfolio & projects :point_right:
 
