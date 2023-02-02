@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 I am passion self-taught C++ Developer (without computer science degree or collague degree but !) I have a no-limit energy 
 and motivation to learn new programming skills every single day. I learn C++ from places like [www.learncpp.com](http://www.learncpp.com/) 
-or book [C++ Primer Plus 6th Edition 2011]([https://zhjwpku.com/assets/pdf/books/C++.Primer.Plus.6th.Edition.Oct.2011.pdf](https://github.com/Oureyelet/Xcode-C-Plus-Plus-Primer-Plus-Sixth-Sdition-Developers-Library-S-Prata-/blob/main/README.md)). Each day I try to spend one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
+or book [C++ Primer Plus 6th Edition 2011](https://zhjwpku.com/assets/pdf/books/C++.Primer.Plus.6th.Edition.Oct.2011.pdf](https://github.com/Oureyelet/Xcode-C-Plus-Plus-Primer-Plus-Sixth-Sdition-Developers-Library-S-Prata-/blob/main/README.md)). Each day I try to spend one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
 
 > # :building_construction:
 Check my portfolio & projects :point_right:
