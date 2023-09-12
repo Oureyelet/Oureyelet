@@ -20,7 +20,7 @@ or book [C++ Primer Plus 6th Edition 2011](https://zhjwpku.com/assets/pdf/books/
 > # :building_construction:
 Check my portfolio & projects :point_right:
 
-* Static webside - Portfolio (https://oureyelet.github.io/mateuszkacperski.github.io/)
+* Static webside - Portfolio https://oureyelet.github.io/mateuszkacperski.github.io/
 * [C++ Primer Plus 6th Edition 2011](https://github.com/Oureyelet/Xcode-C-Plus-Plus-Primer-Plus-Sixth-Sdition-Developers-Library-S-Prata-)
 
 _______________________________________________________________________________________________________________
