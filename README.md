@@ -11,7 +11,7 @@ I'm passion self taught full stack developer (without computer science degree or
 and motivation to learn new programming skills every single day. I learned for example C++ from places like [www.learncpp.com](http://www.learncpp.com/) 
 or book [C++ Primer Plus 6th Edition 2011](https://zhjwpku.com/assets/pdf/books/C++.Primer.Plus.6th.Edition.Oct.2011.pdf). Each day I try to spend one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
 
-- :bust_in_silhouette: I’m currently work as a full-time Team Leader in manufacturing industrie.
+- :bust_in_silhouette: I’m currently work as a full-time Trainee Section Manager in manufacturing industrie.
 - :guitar: Playing the guitar has been my hobby since remember.
 - :footprints: I hope one day my little baby girl (Sophie) will be interested to programing like me :)
 - My target: Be a full-time full stack developer :)
