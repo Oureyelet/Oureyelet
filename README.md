@@ -7,14 +7,12 @@ ________________________________________________________________________________
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/)[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Oureyelet/)[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Oureyelet)
 
 
-I'm passion self taught full stack developer (without computer science degree or collague degree but !) I have a no-limit energy 
-and motivation to learn new programming skills every single day. I learned for example C++ from places like [www.learncpp.com](http://www.learncpp.com/) 
-or book [C++ Primer Plus 6th Edition 2011](https://zhjwpku.com/assets/pdf/books/C++.Primer.Plus.6th.Edition.Oct.2011.pdf). Each day I try to spend one hour at least for improve my qualifications/knowledge and hopefully to change my currently job one day.
+Back in 2016, I landed in the UK without knowing much English. The first I made it to learn the language. After that, I picked up a new skill – welding and fabrication. My hard work paid off with two promotions in the next two years. First, I became a Team Leader Buddy, filling in when the leader was away. Then, I got a full-time Team Leader role, where I led and supported my team. Along the way, I joined various training programs. I learned about Lean Leadership, Mental Wellbeing, Managing Safely, and 8D Problem-solving. In 2022, I got another promotion. Now, I'm a Trainee Section Manager, handling IT support and data projects. It feels great to be trusted with more responsibilities. From struggling with English to managing teams and projects, it's been a journey. I'm proud of how far I've come and excited about what's next.
 
 - :bust_in_silhouette: I’m currently work as a full-time Trainee Section Manager in manufacturing industrie.
 - :guitar: Playing the guitar has been my hobby since remember.
-- :footprints: I hope one day my little baby girl (Sophie) will be interested to programing like me :)
-- My target: Be a full-time full stack developer :)
+- :footprints: I hope one day my little baby girl (Sophie) will be interested to IT like me :)
+- My target: Ultimately, my goal is to become a full-stack software developer, equipped with a deep understanding of front-end, back-end and databases :)
 
 
 > # :building_construction:
