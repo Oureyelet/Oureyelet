@@ -35,5 +35,6 @@ _____________________________________________________
 Philippians 2:3 :open_book:<br />
 "Do nothing out of selfish ambition or vain conceit, but in humility consider others better than yourselves. Each of you should look not only to your own interests, but also to the interests of others."<br /><br />
 God bless you whoever you are :rainbow: <br />
-Regards, Mateusz. <br />
-Oureyelet@gmail.com <br />
+Best Regards, Mateusz. <br />
+mkacperski.net@gmail.com <br />
+07842670579
