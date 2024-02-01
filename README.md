@@ -30,7 +30,7 @@ ________________________________________________________________________________
                 - 2022:    218 hrs    
                 - 2023:    155 hrs <br />
                                 
-<img width="375" alt="Screenshot 2021-07-09 at 13 12 27" src="https://private-user-images.githubusercontent.com/69697624/300956464-48140d90-8ae6-45db-bbed-964b75cb8f2d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2NDgxNjAsIm5iZiI6MTcwNjY0Nzg2MCwicGF0aCI6Ii82OTY5NzYyNC8zMDA5NTY0NjQtNDgxNDBkOTAtOGFlNi00NWRiLWJiZWQtOTY0Yjc1Y2I4ZjJkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMwVDIwNTEwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhZmZhYWM3NjBlMDEwNWFhMjBjMGEwMWNhZWVmNDkwZjhiZjUzZGNjZWQ1MWM5OTExOTgxM2ViNWE0NjdmOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6VkR31hSwRyJuT88uJeXVoqMoXHd9ljsnoiqI16WcaE">
+<img width="375" alt="Screenshot 2021-07-09 at 13 12 27" src="https://github.com/Oureyelet/Oureyelet/assets/69697624/772d05c8-192f-44c9-8221-dd81f488203f">
 
 
 _____________________________________________________
