@@ -18,7 +18,7 @@ Back in 2016, I landed in the UK without knowing much English. The first I made 
 > # :building_construction:
 Check my portfolio & projects :point_right:
 
-* Static webside - Portfolio www.kacperski.net
+* [Portfolio](https://www.kacperski.net/)
 * [C++ Primer Plus 6th Edition 2011](https://github.com/Oureyelet/Xcode-C-Plus-Plus-Primer-Plus-Sixth-Sdition-Developers-Library-S-Prata-)
 * [Active Directory Home Lab](https://github.com/Oureyelet/Active-Directory-Home-Lab-Project)
 
