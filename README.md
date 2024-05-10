@@ -25,7 +25,7 @@ Check my portfolio & projects :point_right:
 _______________________________________________________________________________________________________________
  
 > ###  __⚡    Motivation:__ 
-- Day and date of my beginning journey as a Software Developer: 15th May 2021.
+- Day and date of my beginning journey as a Self-taught Full Stack Developer: 15th May 2021.
 - Total learning time (include projects):                   
                 - 2021:    171 hrs <br />
                 - 2022:    218 hrs    
