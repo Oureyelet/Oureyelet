@@ -5,6 +5,7 @@ ________________________________________________________________________________
 > My name is Mateusz
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553585846873)
 
 
 Back in 2016, I landed in the UK without knowing much English. The first I made it to learn the language. After that, I picked up a new skill – welding and fabrication. My hard work paid off with two promotions in the next two years. First, I became a Team Leader Buddy, filling in when the leader was away. Then, I got a full-time Team Leader role, where I led and supported my team. Along the way, I joined various training programs. I learned about Lean Leadership, Mental Wellbeing, Managing Safely, and 8D Problem-solving. In 2022, I got another promotion. Now, I'm a Trainee Section Manager, handling IT support and data projects. It feels great to be trusted with more responsibilities. From struggling with English to managing teams and projects, it's been a journey. I'm proud of how far I've come and excited about what's next.
