@@ -4,7 +4,9 @@ ________________________________________________________________________________
 
 > My name is Mateusz
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/) <a href="https://www.facebook.com/profile.php?id=61553585846873" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-adam-kacperski-070847201/) <a href="https://www.facebook.com/profile.php?id=61553585846873" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> ![Static Badge](https://img.shields.io/badge/kacperski.net-gray?style=for-the-badge&logo=web&labelColor=blue&link=www.kacperski.net)
+
+
 
 
 
