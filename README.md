@@ -30,15 +30,12 @@ ________________________________________________________________________________
  
 > ###  __⚡    Motivation:__ 
 - Day and date of my beginning journey as a Self-taught Full Stack Developer: 15th May 2021.
-- Total learning time (include projects):                   
+- I track every single hour I spend on my learning process and projects:          
                 - 2021:    171 hrs <br />
-                - 2022:    218 hrs    
+                - 2022:    218 hrs <br />
                 - 2023:    155 hrs <br />
                                 
 <img width="375" alt="Screenshot 2021-07-09 at 13 12 27" src="https://github.com/Oureyelet/Oureyelet/assets/69697624/fbdbf26e-09f8-4e73-a89d-3406dabc2580">
-
-
-
 
 _____________________________________________________
 Philippians 2:3 :open_book:<br />
