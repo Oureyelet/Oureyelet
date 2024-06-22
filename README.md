@@ -38,7 +38,7 @@ ________________________________________________________________________________
 <img width="375" alt="Screenshot 2021-07-09 at 13 12 27" src="https://github.com/Oureyelet/Oureyelet/assets/69697624/fbdbf26e-09f8-4e73-a89d-3406dabc2580">
 
 _____________________________________________________
-Philippians 2:3 :open_book:<br />
+Philippians 2:3-4 :open_book:<br />
 "Do nothing out of selfish ambition or vain conceit, but in humility consider others better than yourselves. Each of you should look not only to your own interests, but also to the interests of others."<br /><br />
 God bless you whoever you are :rainbow: <br />
 Best Regards, Mateusz. <br />
