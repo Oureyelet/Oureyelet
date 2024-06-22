@@ -39,8 +39,7 @@ ________________________________________________________________________________
 
 
 
-https://github.com/Oureyelet/Oureyelet/assets/69697624/43217f2f-cf0e-4581-9273-1fd985ddbea3
-
+https://github.com/Oureyelet/Oureyelet/assets/69697624/24ca2f49-a3d6-4ff5-91fa-b9a8f27bd072
 
 
 
