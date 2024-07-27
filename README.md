@@ -12,10 +12,10 @@ ________________________________________________________________________________
 
 Back in 2016, I landed in the UK without knowing much English. The first I made it to learn the language. After that, I picked up a new skill – welding and fabrication. My hard work paid off with two promotions in the next two years. First, I became a Team Leader Buddy, filling in when the leader was away. Then, I got a full-time Team Leader role, where I led and supported my team. Along the way, I joined various training programs. I learned about Lean Leadership, Mental Wellbeing, Managing Safely, and 8D Problem-solving. In 2022, I got another promotion. Now, I'm a Trainee Section Manager, handling IT support and data projects. It feels great to be trusted with more responsibilities. From struggling with English to managing teams and projects, it's been a journey. I'm proud of how far I've come and excited about what's next.
 
-- :bust_in_silhouette: I’m currently work as a full-time Trainee Section Manager (IT Support / Data Analyst) in manufacturing industrie.
+- :bust_in_silhouette: I’m currently work as a full-time Trainee Section Manager / Data Analyst in manufacturing industrie.
 - :guitar: Playing the guitar has been my hobby since remember.
 - :footprints: I hope one day my little baby girl (Sophie) will be interested to IT like me :)
-- My target: Ultimately, my goal is to become a full-stack software developer, equipped with a deep understanding of front-end, back-end and databases :)
+- My target: Ultimately, my goal is to become a Cybersecurity Analyst :)
 
 
 > # :building_construction:
@@ -29,7 +29,7 @@ Check my portfolio & projects :point_right:
 _______________________________________________________________________________________________________________
  
 > ###  __⚡    Motivation:__ 
-- The date I began my journey as a self-taught full stack developer: 15th May 2021.
+- The date I began my journey as a self-taught: 15th May 2021.
 - I track every single hour I spend on my learning process and projects:          
                 - 2021:    171 hrs <br />
                 - 2022:    218 hrs <br />
