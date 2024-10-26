@@ -25,6 +25,7 @@ Check my portfolio & projects :point_right:
 * [C++ Primer Plus 6th Edition 2011](https://github.com/Oureyelet/Xcode-C-Plus-Plus-Primer-Plus-Sixth-Sdition-Developers-Library-S-Prata-)
 * [Active Directory Home Lab](https://github.com/Oureyelet/Active-Directory-Home-Lab-Project)
 * [WordPress-Personal-Trainer-Website-Project](https://github.com/Oureyelet/WordPress-Personal-Trainer-Website/tree/main)
+* [Google Cybersecurity Professional Certificate](https://github.com/Oureyelet/Google-Cybersecurity-Professional-Certificate)
 
 _______________________________________________________________________________________________________________
  
