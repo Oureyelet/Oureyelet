@@ -32,9 +32,11 @@ ________________________________________________________________________________
 > ###  __⚡    Motivation:__ 
 - The date I began my journey as a self-taught: 15th May 2021.
 - I track every single hour I spend on my learning process and projects:          
-                - 2021:    171 hrs <br />
+                - 2021:    175 hrs <br />
                 - 2022:    218 hrs <br />
                 - 2023:    155 hrs <br />
+                - 2024:    238 hrs <br />
+                - I’m excited to share that on February 4, 2025, I started my first IT role as an IT Technician at a construction company! 🎉
                                 
 <img width="375" alt="Screenshot 2021-07-09 at 13 12 27" src="https://github.com/Oureyelet/Oureyelet/assets/69697624/fbdbf26e-09f8-4e73-a89d-3406dabc2580">
 
