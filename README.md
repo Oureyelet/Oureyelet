@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 I am detail-oriented, talented in following rules and instructions, and known for remaining calm, peaceful, and respectful under pressure. I am passionate about protecting people and aligning with organizational goals, with a strong focus on ethical behaviour. My interest in **cybersecurity** lies in preventing unauthorized access to restricted systems, detecting suspicious activity, and swiftly responding to potential threats. I place a high value on ensuring compliance with security regulations and internal protocols, maintaining a calm and effective workflow during crisis situations, and advocating for user-friendly security measures that protect all users, especially those with less technical expertise.
 
-- :bust_in_silhouette: I’m currently work as a full-time Trainee Section Manager / Data Analyst in manufacturing industrie.
+- :bust_in_silhouette: I’m currently work as a IT Technician at building solution companie.
 - :guitar: Playing the guitar has been my hobby since remember.
 - :footprints: I hope one day my little baby girl (Sophie) will be interested to IT like me :)
 - My target: Ultimately, my goal is to become a Cybersecurity Analyst :)
