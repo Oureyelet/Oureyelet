@@ -17,8 +17,6 @@ I am detail-oriented, talented in following rules and instructions, and known fo
 - :footprints: I hope one day my little baby girl (Sophie) will be interested to IT like me :)
 - My target: Ultimately, my goal is to become a Cybersecurity Analyst :)
 
-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7321685816781520896" height="868" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
 
 > # :building_construction:
 Check my portfolio & projects :point_right:
