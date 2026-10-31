@@ -1,8 +1,4 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
-
-# 👋 Hi, I'm Mateusz Kacperski
+# 👋 Hi, I'm Mateusz
 
 ### IT Operations Engineer · Networking · Cybersecurity · Microsoft Infrastructure
 
@@ -30,8 +26,6 @@ My route into IT has been hands-on: I moved from manufacturing and team leadersh
 - 🛡️ **Security:** Google Cybersecurity Certificate, endpoint security, MFA, SIEM learning, and security-focused home-lab work.
 - ⚙️ **Automation & operations:** PowerShell procedures, monitoring, patching, backup/recovery testing, and technical documentation.
 - 📚 **Learning mindset:** I track my learning, keep building projects, and aim to make complicated technical topics approachable.
-
-> My goal is to keep growing towards cybersecurity and security operations while strengthening my foundations in infrastructure, networking, and cloud technologies.
 
 ## 🧰 Technologies & Tools
 
@@ -124,6 +118,3 @@ For my portfolio, projects, and professional background, visit:
 </div>
 '''
 
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({len(readme.splitlines())} lines)")
