@@ -119,8 +119,3 @@ For my portfolio, projects, and professional background, visit:
 *Keep learning. Stay curious. Build things that help people.*
 
 </div>
-'''
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({len(readme.splitlines())} lines)")
