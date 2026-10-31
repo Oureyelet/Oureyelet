@@ -1,3 +1,7 @@
+from pathlib import Path
+
+readme = r'''<div align="center">
+
 # 👋 Hi, I'm Mateusz
 
 ### IT Operations Engineer · Networking · Cybersecurity · Microsoft Infrastructure
@@ -118,3 +122,6 @@ For my portfolio, projects, and professional background, visit:
 </div>
 '''
 
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
+print(f"Created {path} ({len(readme.splitlines())} lines)")
